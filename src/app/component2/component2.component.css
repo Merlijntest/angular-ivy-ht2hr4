@@ -1,0 +1,17 @@
+.sidebalk{
+  background-color: chocolate;
+  height: 100vh;
+  padding: 8px; 
+  margin-right: 8px;
+}
+.pfp{
+  height: 60px;
+  width: 60px;
+  background-color: ghostwhite;
+  border-radius: 50%;
+  display: inline-block;
+}
+.mini{
+  height: 20px;
+  width: 60px
+}
